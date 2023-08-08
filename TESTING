@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"""
+
+list_of_working_floors = 5
+
+
+
+wall_area_repeat = "Yes"
+
+while wall_area_repeat != "QUIT":
+    print("To leave the wall area calculator function, enter QUIT at any time.")
+    wall_length = (input("How long is the wall you are measuring? "))
+    wall_length = (wall_length)
+    print("You chose,",wall_length," as your wall length.")
+
+    wall_area = wall_length * list_of_working_floors
+    print("The area of the wall is .....",wall_area)
+
+else:
+    wall_area_repeat = "QUIT"
+
+"""
+
+
+import math
+
+
+
+
+
+list_of_working_floors = 5
+
+wall_area_repeat = 111
+
+while wall_area_loop != 000:
+    print("To leave the wall area calculator function, enter 000 at any time.")
+    wall_length = input("How long is the wall you are measuring? ")
+    wall_length = int(wall_length)
+    print("You chose,",wall_length," as your wall length.")
+
+    wall_area = wall_length * list_of_working_floors
+    print("The area of the wall is .....",wall_area)
+
+else:
+    wall_area_loop = "QUIT"
+
+
+
+
+
+
+
+
+
+
